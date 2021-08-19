@@ -5,16 +5,6 @@
   "version": "0.0.1",
   "templateVersion": 2,
   "author": "Alexandra Moonlight",
-  "scripts": [
-  ],
-  "esmodules": [
-  ],
-  "styles": [
-  ],
-  "packs": [
-  ],
-  "languages": [
-  ],
   "socket": false,
   "initiative": "1d100",
   "gridDistance": 10,
