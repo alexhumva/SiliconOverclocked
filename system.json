@@ -1,0 +1,27 @@
+{
+  "name": "siliconoverclocked",
+  "title": "Silicon and Silver: Overclocked",
+  "description": "A (mostly) lightweight package for running Silicon and Silver, the queer Shadowrun.",
+  "version": "0.0.1",
+  "templateVersion": 2,
+  "author": "Alexandra Moonlight",
+  "scripts": [
+  ],
+  "esmodules": [
+  ],
+  "styles": [
+  ],
+  "packs": [
+  ],
+  "languages": [
+  ],
+  "socket": false,
+  "initiative": "1d100",
+  "gridDistance": 10,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "resources.health",
+  "secondaryTokenAttribute": "resources.power",
+  "url": "https://github.com/alexhumva/SiliconOverclocked",
+  "manifest": "https://github.com/alexhumva/SiliconOverclocked/system.json",
+  "download": "https://github.com/alexhumva/SiliconOverclocked/archive/refs/heads/main.zip"
+}
