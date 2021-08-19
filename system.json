@@ -22,6 +22,6 @@
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
   "url": "https://github.com/alexhumva/SiliconOverclocked",
-  "manifest": "https://github.com/alexhumva/SiliconOverclocked/system.json",
+  "manifest": "https://github.com/alexhumva/SiliconOverclocked/blob/main/system.json",
   "download": "https://github.com/alexhumva/SiliconOverclocked/archive/refs/heads/main.zip"
 }
