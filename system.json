@@ -1,22 +1,28 @@
 {
-  "name": "siliconoverclocked",
-  "title": "Silicon and Silver: Overclocked",
-  "description": "A (mostly) lightweight package for running Silicon and Silver, the queer Shadowrun.",
-  "version": "0.0.1",
-  "templateVersion": 2,
-  "author": "Alexandra Moonlight",
+  "name": "SiliconOverclocked",
+  "title": "SiliconOC",
+  "description": "The in work system for Silicon and Silver!",
+  "version": "1.1.0",
+  "minimumCoreVersion": "0.8.3",
+  "compatibleCoreVersion": "0.8.6",
+  "author": "Alex Tackett",
+  "esmodules": ["module/boilerplate.mjs"],
+  "styles": ["css/boilerplate.css"],
   "scripts": [],
-  "esmodules":[],
-  "styles":[],
-  "packs":[],
-  "languages":[],
-  "socket": false,
-  "initiative": "1d100",
-  "gridDistance": 10,
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 5,
   "gridUnits": "ft",
-  "primaryTokenAttribute": "resources.health",
-  "secondaryTokenAttribute": "resources.power",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
   "url": "https://github.com/alexhumva/SiliconOverclocked",
-  "manifest": "https://github.com/alexhumva/SiliconOverclocked/blob/main/system.json",
-  "download": "https://github.com/alexhumva/SiliconOverclocked/archive/refs/heads/main.zip"
+  "manifest": "https://raw.githubusercontent.com/alexhumva/SiliconOverclocked/main/system.json",
+  "download": "https://github.com/alexhumva/SiliconOverclocked/archive/refs/tags/stable.zip",
+  "license": "LICENSE.txt"
 }
